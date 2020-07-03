@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Boundfox Studios](./boundfoxstudios.png)](https://github.com/boundfoxstudios)
+
 My name is Manuel Rauber. I’m a guy starting his 30's and I'm living in Germany. I've co-founded [Boundfox Studios](https://boundfoxstudios.com), a little Indie Game Development Studio, and I'm working as a consultant for the wonderful company [Thinktecture](http://thinktecture.com). From 2016 to 2020 I got awarded as a Microsoft Most Valuable Professional (MVP) in _Visual Studio and Development Technologies_. 
 
 By day I’m building applications with HTML5, CSS3, JavaScript (Angular) and Node.js or .NET Core in the backend. By night, I’m <s>Batman</s> interested in testing, Unity or trying out new technology. I’ve got an open mindset and appreciate discussing about how things can be improved. Oh, and I love memes. (-:
