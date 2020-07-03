@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Boundfox Studios](./boundfoxstudios.png)](https://github.com/boundfoxstudios)
+[![Boundfox Studios](https://raw.githubusercontent.com/ManuelRauber/ManuelRauber/master/boundfoxstudios.png)](https://github.com/boundfoxstudios)
 
 My name is Manuel Rauber. I’m a guy starting his 30's and I'm living in Germany. I've co-founded [Boundfox Studios](https://boundfoxstudios.com), a little Indie Game Development Studio, and I'm working as a consultant for the wonderful company [Thinktecture](http://thinktecture.com). From 2016 to 2020 I got awarded as a Microsoft Most Valuable Professional (MVP) in _Visual Studio and Development Technologies_. 
 
