@@ -3,6 +3,7 @@
 [![Boundfox Studios](https://raw.githubusercontent.com/ManuelRauber/ManuelRauber/master/boundfoxstudios.png)](https://github.com/boundfoxstudios)
 
 * 🦊 Founder of [Boundfox Studios](https://boundfoxstudios.com) ([GitHub](https://github.com/boundfoxstudios), [YouTube](https://youtube.com/c/boundfox))
+* Lead Software Engineer at [MindKey](https://mindkey.com)
 * 🎖 From 2016 to 2020 I got awarded as a Microsoft Most Valuable Professional (MVP) for Developer Technologies
 * ❤️ I love Unity, .NET Core and Angular
 * 📝 Sometimes [I blog](https://manuel-rauber.com)
