@@ -1,4 +1,4 @@
-const Handlebars = require('Handlebars');
+const Handlebars = require('handlebars');
 const fs = require('fs');
 const GhostContentAPI = require('@tryghost/content-api');
 
