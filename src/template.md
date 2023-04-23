@@ -14,7 +14,7 @@
 ## Recent [blog posts](https://manuel-rauber.com)
 
 {{#each posts}}
-* [{{ title }}]({{ url }})
+* [{{title}}]({{url}})
 {{/each}}
 
-_last update_: {{lastUpdate}}
+_last update: {{lastUpdate}}_
