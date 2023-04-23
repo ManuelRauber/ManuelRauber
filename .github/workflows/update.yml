@@ -24,7 +24,7 @@ jobs:
             const script = require('./src/update.js');
             await script({ core });
           ghost-url: ${{ secrets.GHOST_URL }}
-          ghost-api-key: ${{ secret.GHOST_API_KEY }}
+          ghost-api-key: ${{ secrets.GHOST_API_KEY }}
       - name: deploy changes
         run: |
           git config user.name "${GITHUB_ACTOR}"
