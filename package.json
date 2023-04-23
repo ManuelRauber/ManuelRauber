@@ -1,0 +1,10 @@
+{
+  "name": "manuelrauber",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/update.js",
+  "dependencies": {
+    "@tryghost/content-api": "~1.11.9",
+    "handlebars": "~4.7.7"
+  }
+}
