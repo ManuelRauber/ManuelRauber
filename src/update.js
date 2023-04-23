@@ -20,5 +20,5 @@ module.exports = async ({ghostUrl, apiKey}) => {
 
     const finalTemplate = template(templateVariables);
 
-    fs.writeFileSync('./template.md', finalTemplate, {encoding: 'utf-8'});
+    fs.writeFileSync('./README.md', finalTemplate, {encoding: 'utf-8'});
 }
