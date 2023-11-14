@@ -19,4 +19,4 @@
 * [ALWAYS assign enum values (at least, if you serialize them)](https://manuel-rauber.com/2022/06/08/always-assign-enum-values-at-least-if-you-serialize-them/)
 * [Instantiate your own UI prefabs via GameObject menu](https://manuel-rauber.com/2022/05/23/instantiate-your-own-prefabs-via-gameobject-menu/)
 
-_last update: 2023-11-13_
+_last update: 2023-11-14_
