@@ -13,10 +13,10 @@
 
 ## Recent [blog posts](https://manuel-rauber.com)
 
+* [How to get your settings back after JetBrains Rider upgrade to 2024.1](https://manuel-rauber.com/2024/04/11/how-to-get-your-settings-back-after-jetbrains-rider-upgrade-to-2024-1/)
 * [Use serialized properties over serialized fields in Unity](https://manuel-rauber.com/2023/02/21/use-serialized-properties-over-serialized-fields-in-unity/)
 * [Merge Conflicts in Unity - How to avoid them?](https://manuel-rauber.com/2023/01/25/merge-conflicts-in-unity-how-to-avoid-them/)
 * [Get mouse/touch position on click/touch with Unity&#x27;s new Input System](https://manuel-rauber.com/2023/01/14/get-mouse-touch-position-on-click-touch-with-unitys-new-input-system/)
 * [ALWAYS assign enum values (at least, if you serialize them)](https://manuel-rauber.com/2022/06/08/always-assign-enum-values-at-least-if-you-serialize-them/)
-* [Instantiate your own UI prefabs via GameObject menu](https://manuel-rauber.com/2022/05/23/instantiate-your-own-prefabs-via-gameobject-menu/)
 
-_last update: 2024-04-11_
+_last update: 2024-04-12_
