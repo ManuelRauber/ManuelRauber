@@ -19,4 +19,4 @@
 * [Get mouse/touch position on click/touch with Unity&#x27;s new Input System](https://manuel-rauber.com/2023/01/14/get-mouse-touch-position-on-click-touch-with-unitys-new-input-system/)
 * [ALWAYS assign enum values (at least, if you serialize them)](https://manuel-rauber.com/2022/06/08/always-assign-enum-values-at-least-if-you-serialize-them/)
 
-_last update: 2024-05-18_
+_last update: 2024-05-19_
