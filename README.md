@@ -8,7 +8,7 @@
 * ❤️ I love Unity, .NET Core and Angular
 * 📝 Sometimes [I blog](https://manuel-rauber.com)
 * 💻 I'm a member of board at [Hackerstolz e.V.](https://hackerstolz.de) - a club to encourage digitalization in Germany
-* 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manuelrauber)
+* 📫 Reach me [@manuelrauber](https://twitter.com/manuelrauber) or [LinkedIn](https://www.linkedin.com/in/manuelrauber)
 * 😊 Pronouns: he/him
 
 ## Recent [blog posts](https://manuel-rauber.com)
