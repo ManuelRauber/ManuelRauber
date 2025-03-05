@@ -19,4 +19,4 @@
 * [Merge Conflicts in Unity - How to avoid them?](https://manuel-rauber.com/2023/01/25/merge-conflicts-in-unity-how-to-avoid-them/)
 * [Get mouse/touch position on click/touch with Unity&#x27;s new Input System](https://manuel-rauber.com/2023/01/14/get-mouse-touch-position-on-click-touch-with-unitys-new-input-system/)
 
-_last update: 2025-03-04_
+_last update: 2025-03-05_
