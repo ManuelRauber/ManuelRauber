@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=manuelrauber)
-
 ### Hi there, I'm Manuel 👋
 
 [![Boundfox Studios](https://raw.githubusercontent.com/ManuelRauber/ManuelRauber/master/boundfoxstudios.png)](https://github.com/boundfoxstudios)
