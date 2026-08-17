@@ -9,7 +9,7 @@
 * 🎖 From 2016 to 2020 I got awarded as a Microsoft Most Valuable Professional (MVP) for Developer Technologies
 * ❤️ I love Unity, .NET Core, Angular and Flutter
 * 📝 Sometimes [I blog](https://manuel-rauber.com)
-* 💻 I'm was a member of board at [Hackerstolz e.V.](https://hackerstolz.de) - a club to encourage digitalization in Germany
+* 💻 I was a member of board at [Hackerstolz e.V.](https://hackerstolz.de) - a club to encourage digitalization in Germany
 * 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manuelrauber)
 * 😊 Pronouns: he/him
 
